@@ -6,3 +6,4 @@ export default {
   loadReviews: (id) => get(`/api/reviews?id=${id}`),
   loadUsers: () => get('/api/users'),
 };
+//test
